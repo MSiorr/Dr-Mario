@@ -25,6 +25,14 @@ You must rotate and move the pills so that 4 pieces of the same colour are next 
 - Score system
 - Animations
 
+## Technologies
+
+<p>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" /> 
+ <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" /> 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" />  
+</p>
+
 
 ## Controls
 
