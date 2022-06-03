@@ -1,7 +1,7 @@
 # Dr-Mario
 Copy of the Dr Mario game
 
-![look](img/look.png)
+![obraz](https://user-images.githubusercontent.com/49323088/171882446-82e11f0c-066b-4633-9bf5-bcbacd765b55.png)
 
 ### Test it now 
 **👉 https://msiorr.github.io/Projects/Dr-Mario/ 👈**
