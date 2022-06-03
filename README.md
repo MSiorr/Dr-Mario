@@ -3,6 +3,9 @@ Copy of the Dr Mario game
 
 ![look](img/look.png)
 
+### Test it now 
+**👉 https://msiorr.github.io/Projects/Dr-Mario/ 👈**
+
 
 ##  Overall info
 
